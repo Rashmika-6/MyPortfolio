@@ -8,4 +8,4 @@ This is my personal portfolio website showcasing my projects, skills, and experi
 - JavaScript
 
 ## Deployment
-The portfolio is deployed and can be accessed ([here](rashmikaportfolio.netlify.app)).
+The portfolio is deployed and can be accessed ([here](https://rashmikaportfolio.netlify.app/))).
